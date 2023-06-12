@@ -9,7 +9,7 @@ Operation description
 
 #사전 설정, PrevSettings
 MySQL에 JAVA.Sql 파일을 추가(Import)합니다.
-Import JAVA.Sql File into MySql Database.
+(Import JAVA.Sql File into MySql Database.)
 
 #Kiosk.java
 1. 프로그램을 실행할 때, 테이블 번호를 입력합니다. (When Program loaded, type table number.)
